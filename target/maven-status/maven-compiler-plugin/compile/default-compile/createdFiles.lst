@@ -1,0 +1,11 @@
+observer\observerswing\view\EditPersonDialog.class
+observer\observerswing\model\Observer.class
+observer\observerswing\model\ConcreteSubject.class
+observer\observerswing\Main.class
+observer\observerswing\view\WeatherSystem.class
+observer\observerswing\model\Person.class
+observer\observerswing\view\PersonCellRenderer.class
+observer\observerswing\model\Subject.class
+observer\observerswing\view\ThermometerPanel.class
+observer\observerswing\view\AddPersonDialog.class
+observer\observerswing\view\AddPersonDialog$1.class
